@@ -24,7 +24,7 @@ This is a Python implementation of the popular word-guessing game, Wordle. The o
 ## Running the Game
 
 > [!NOTE]
-> You can also [download](https://github.com/Canachii/pywordle/releases/download/v0.1.0/wordle.exe) the executable version of the game from the releases section of the repository. This allows you to run the game without needing to install Python or any dependencies.
+> You can also [download](https://github.com/Canachii/pywordle/releases/download/latest/wordle.exe) the executable version of the game from the releases section of the repository. This allows you to run the game without needing to install Python or any dependencies.
 
 1. Ensure you have Python 3.x installed on your system.
 2. Place the `wordle.csv` file in the same directory as `wordle.py`.
